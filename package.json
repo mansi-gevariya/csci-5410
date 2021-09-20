@@ -1,0 +1,13 @@
+{
+  "name": "csci-5410-lab-2",
+  "version": "1.0.0",
+  "description": "Sample REST APIs Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
